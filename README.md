@@ -16,7 +16,7 @@ Khoa</a></h1>
 
 - 🤝 I’m available for a Full-time Job after graduation
 
-- 🌱 I’m currently learning Java and Data Structures & Algorithms
+- 🌱 I’m currently learning Java with Data Structures & Algorithms
 
 - 📝 I sometimes write articles on my personal portfolio website [https://www.dntkhoa.dev/blogs](https://www.dntkhoa.dev/blogs)
 
