@@ -1,6 +1,6 @@
 <h1 align="center">Hallo 👋, I'm <a href="https://www.dntkhoa.dev/" target="blank">
 Khoa</a></h1>
-<h3 align="center">An aspiring software engineer from Vietnam and currently working in the Netherlands</h3>
+<h3 align="center">An aspiring software engineer currently living and working in the Netherlands</h3>
 
 <br/>
 <br/>
