@@ -33,7 +33,7 @@ Khoa</a></h1>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/khoa-doan-2k/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href=https://github.com/DNT-Khoa">
+        <a style="margin-left: 10px;" target="_blank" href=https://github.com/DNT-Khoa>
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://www.dntkhoa.dev/blogs">
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
