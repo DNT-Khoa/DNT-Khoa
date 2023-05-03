@@ -49,7 +49,7 @@ Khoa</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Microservices Patterns Research]([https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j](https://www.dntkhoa.dev/blogs/microservices-patterns-research))
-- [My Internship Experience at ASML]([https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1](https://www.dntkhoa.dev/blogs/asml-internship-experience))
+- [Microservices Patterns Research](https://www.dntkhoa.dev/blogs/microservices-patterns-research))
+- [My Internship Experience at ASML](https://www.dntkhoa.dev/blogs/asml-internship-experience))
 <!-- BLOG-POST-LIST:END -->
 
