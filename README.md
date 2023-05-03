@@ -10,6 +10,7 @@ Khoa</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 - 🔭 I’m currently doing my graduation internship at <a href="https://www.philips.com/a-w/about/innovation/experience-design.html" target="blank">Philips Experience Design</a>
+- 🔭 I used to be a software intern at <a href="https://www.asml.com/en" target="blank">ASML</a></a>
 
 - 🌱 I’m currently Working on prototypes for Clinical use cases
 
