@@ -49,7 +49,7 @@ Khoa</a></h1>
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Microservices Patterns Research](https://www.dntkhoa.dev/blogs/microservices-patterns-research))
-- [My Internship Experience at ASML](https://www.dntkhoa.dev/blogs/asml-internship-experience))
+- [Microservices Patterns Research](https://www.dntkhoa.dev/blogs/microservices-patterns-research)
+- [My Internship Experience at ASML](https://www.dntkhoa.dev/blogs/asml-internship-experience)
 <!-- BLOG-POST-LIST:END -->
 
