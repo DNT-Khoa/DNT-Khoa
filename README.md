@@ -10,7 +10,7 @@ Khoa</a></h1>
 
 - 🔭 I’m currently doing my graduation internship at <a href="https://www.philips.com/a-w/about/innovation/experience-design.html" target="blank">Philips Experience Design</a>
 
-- 🔭 I used to be a software intern at <a href="https://www.asml.com/en" target="blank">ASML</a>
+- 🔭 I used to be a software engineer intern at <a href="https://www.asml.com/en" target="blank">ASML</a>
 
 - 🌱 I’m currently Working on prototypes for Clinical use cases
 
