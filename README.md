@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.dntkhoa.dev/" target="blank">
 Khoa</a></h1>
-<h3 align="center">An aspiring software engineer from Vietnam and currently working in the Netherlands &#127470;&#127475</h3>
+<h3 align="center">An aspiring software engineer from Vietnam and currently working in the Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -10,21 +10,21 @@ Khoa</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 🔭 I’m currently doing my graduation internship at <a href="https://www.philips.com/a-w/about/innovation/experience-design.html" target="blank">Philips Experience Design</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working on prototypes for Clinical use cases
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for a Full-time Job after graduation
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Java and Data Structures & Algorithms
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I sometimes write articles on my personal portfolio website [https://www.dntkhoa.dev/blogs](https://www.dntkhoa.dev/blogs)
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about Full-stack development or Internship preparation
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **khoa.doan.2k2112@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Want Know about my experiences <a href="https://drive.google.com/file/d/1z94Si7r8ope3aNjtxYYFzgiy9KZQaI60/view?usp=sharing" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -60,8 +60,3 @@ Khoa</a></h1>
 - [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
