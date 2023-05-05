@@ -20,7 +20,7 @@ Khoa</a></h1>
 
 - 📝 I sometimes write articles on my personal portfolio website [https://www.dntkhoa.dev/blogs](https://www.dntkhoa.dev/blogs)
 
-- 💬 Ask me about Full-stack development or Internship preparation
+- 💬 Ask me about anything, I'm always happy to answer your questions 😁
 
 - 📫 How to reach me **khoa.doan.2k2112@gmail.com**
 
