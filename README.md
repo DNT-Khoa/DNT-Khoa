@@ -24,7 +24,7 @@ Khoa</a></h1>
 
 - 📫 How to reach me **khoa.doan.2k2112@gmail.com**
 
-- 📄 Want Know about my experiences <a href="[https://drive.google.com/file/d/1UapRjxwQwla898xLYsXAQd_wWpIsHWAT/view?usp=sharing](https://drive.google.com/file/d/1Or3nJ64_z9S4ZgNmgyRhpWVpJhrn363T/view?usp=sharing)" target="blank">Resume</a>
+- 📄 Want Know about my experiences <a href="https://drive.google.com/file/d/1Or3nJ64_z9S4ZgNmgyRhpWVpJhrn363T/view?usp=sharing" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -39,7 +39,7 @@ Khoa</a></h1>
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCTrCCyc8enlxdAfPh-YZXvw">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="[https://drive.google.com/file/d/1UapRjxwQwla898xLYsXAQd_wWpIsHWAT/view?usp=sharing](https://drive.google.com/file/d/1Or3nJ64_z9S4ZgNmgyRhpWVpJhrn363T/view?usp=sharing)">
+		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1Or3nJ64_z9S4ZgNmgyRhpWVpJhrn363T/view?usp=sharing">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
