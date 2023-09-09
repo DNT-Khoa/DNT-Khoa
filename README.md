@@ -12,11 +12,9 @@ Khoa</a></h1>
 
 - 🔭 I used to be a software engineer intern at <a href="https://www.asml.com/en" target="blank">ASML</a> and <a href="https://www.philips.com/en" target="blank">Philips</a>
 
-- 🌱 I’m currently Working on prototypes for Clinical use cases
+- 🌱 I’m currently working on Backend development, specifically Baggage Handling Systems
 
-- 🤝 I’m available for a Full-time Job after graduation
-
-- 🌱 I’m currently learning Java with Data Structures & Algorithms
+- 🌱 I’m currently learning Java EE and Data Structures & Algorithms
 
 - 📝 I sometimes write articles on my personal portfolio website [https://www.dntkhoa.dev/blogs](https://www.dntkhoa.dev/blogs)
 
