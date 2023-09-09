@@ -10,7 +10,7 @@ Khoa</a></h1>
 
 - 🔭 I’m currently a Junior Software Engineer at <a href="https://www.vanderlande.com" target="blank">Vanderlande</a>
 
-- 🔭 I used to be a software engineer intern at <a href="https://www.asml.com/en" target="blank">ASML</a> and <a href="https://www.philips.com/en" target="blank">Philips</a>
+- 🔭 I used to be a software engineer intern at <a href="https://www.asml.com/en" target="blank">ASML</a> and <a href="https://www.philips.com" target="blank">Philips</a>
 
 - 🌱 I’m currently working on Backend development, specifically Baggage Handling Systems
 
