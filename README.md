@@ -16,7 +16,7 @@ Khoa</a></h1>
 
 - 🌱 I’m currently learning Java EE and Data Structures & Algorithms
 
-- 📝 I sometimes write articles on my personal portfolio website [https://www.dntkhoa.dev/blogs](https://www.dntkhoa.dev/blogs)
+- 📝 I sometimes write articles on my personal portfolio website [https://portfolio-website-v2.vercel.app/blogs](https://portfolio-website-v2.vercel.app/blogs)
 
 - 💬 Ask me about anything, I'm always happy to answer your questions 😁
 
