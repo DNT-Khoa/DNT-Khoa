@@ -17,7 +17,7 @@
 - 🔭 SE I at **[Vanderlande](https://www.vanderlande.com)** — building software so your bags don't get lost!
 - 🏥 Former intern at **[Philips](https://www.philips.com)** — AI tools for pancreatic cancer imaging (R&D)
 - 💡 Former intern at **[ASML](https://www.asml.com/en)** — dashboards for lithography algorithm performance
-- 🌱 Currently sharpening **Data Structures & Algorithms in C++**
+- 🌱 Currently sharpening **Data Structures & Algorithms in Java**
 - 💬 Ask me about anything — always happy to help 😁
 - 📫 **[khoa.doan.2k2112@gmail.com](mailto:khoa.doan.2k2112@gmail.com)**
 - 🌍 Living the Dutch life in Eindhoven 🇳🇱🧀
