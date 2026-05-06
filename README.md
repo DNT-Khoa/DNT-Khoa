@@ -67,8 +67,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats-khoacoderjedi-3824s-projects.vercel.app/?user=DNT-Khoa&theme=tokyonight&hide_border=true&background=0D1117&v=1)
 
-<img src="https://streak-stats.demolab.com/?user=DNT-Khoa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
 </div>
 
 ---
