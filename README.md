@@ -60,8 +60,8 @@
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats-seven-pi-70.vercel.app/api?username=DNT-Khoa&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Khoa's GitHub stats">
-  <img height="195" src="https://github-readme-stats-seven-pi-70.vercel.app/api/top-langs/?username=DNT-Khoa&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Top Languages">
+  <img align="center" src="https://github-readme-stats-seven-pi-70.vercel.app/api?username=DNT-Khoa&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Khoa's GitHub stats">
+  <img align="center" src="https://github-readme-stats-seven-pi-70.vercel.app/api/top-langs/?username=DNT-Khoa&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;card_width=445" alt="Top Languages">
   <br/><br/>
   <img src="https://github-readme-streak-stats-seven-rose-79.vercel.app/?user=DNT-Khoa&amp;theme=tokyonight" alt="GitHub Streak">
 </div>
