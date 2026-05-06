@@ -65,7 +65,7 @@
 &nbsp;
 ![Top Languages](https://github-readme-stats-khoacoderjedi-3824s-projects.vercel.app/api/top-langs/?username=DNT-Khoa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-[![GitHub Streak](https://github-readme-streak-stats-khoacoderjedi-3824s-projects.vercel.app?user=DNT-Khoa)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats-khoacoderjedi-3824s-projects.vercel.app?user=DNT-Khoa&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
