@@ -60,13 +60,17 @@
 ### 📊 GitHub stats
 
 <div align="center">
-
-![Khoa's GitHub stats](https://github-readme-stats-seven-pi-70.vercel.app/api?username=DNT-Khoa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-&nbsp;
-![Top Languages](https://github-readme-stats-seven-pi-70.vercel.app/api/top-langs/?username=DNT-Khoa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-[![GitHub Streak](https://github-readme-streak-stats-seven-rose-79.vercel.app?user=DNT-Khoa&theme=tokyonight)](https://git.io/streak-stats)
-
+  <a href="https://github.com/DNT-Khoa">
+    <img height="180" src="https://github-readme-stats-seven-pi-70.vercel.app/api?username=DNT-Khoa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DNT-Khoa">
+    <img height="180" src="https://github-readme-stats-seven-pi-70.vercel.app/api/top-langs/?username=DNT-Khoa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <br/><br/>
+  <a href="https://git.io/streak-stats">
+    <img width="100%" src="https://github-readme-streak-stats-seven-rose-79.vercel.app?user=DNT-Khoa&theme=tokyonight" />
+  </a>
 </div>
 
 ---
