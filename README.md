@@ -20,7 +20,7 @@
 - 🌱 Currently sharpening **Data Structures & Algorithms in Java**
 - 💬 Ask me about anything — always happy to help 😁
 - 📫 **[khoa.doan.2k2112@gmail.com](mailto:khoa.doan.2k2112@gmail.com)**
-- 🌍 Living the Dutch life in Eindhoven 🇳🇱🧀
+- 🌍 Living the Dutch life in Eindhoven 🇳🇱
 
 <br clear="right"/>
 
